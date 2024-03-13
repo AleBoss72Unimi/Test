@@ -1,7 +1,7 @@
-package Test
+package main
 
-import "log"
+import "fmt"
 
-func Hello() {
-	log.Println("Hello")
+func main() {
+	fmt.Println("Hello")
 }
